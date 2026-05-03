@@ -6,9 +6,6 @@
 
 Portfolio professionnel conçu pour présenter mes compétences en analyse de données et démontrer ma capacité à produire des insights utiles pour la prise de décision.
 
-Lien du portfolio : https://ton-portfolio.com
-CV : https://ton-cv.com
-
 ---
 
 ## À propos
@@ -34,9 +31,6 @@ Je suis disponible pour des missions freelance, des projets data et des collabor
 
 ### Analyse des ventes (Power BI)
 
-GitHub : https://github.com/ton-username/sales-analysis
-Dashboard : https://app.powerbi.com/view?r=ton-lien
-
 Problème : comprendre les performances commerciales
 Solution : création d’un dashboard interactif
 Impact : amélioration de la prise de décision commerciale
@@ -45,8 +39,6 @@ Impact : amélioration de la prise de décision commerciale
 
 ### Segmentation client (Python)
 
-GitHub : https://github.com/ton-username/customer-segmentation
-
 Problème : identifier les segments de clients
 Solution : clustering avec K-Means
 Impact : optimisation des campagnes marketing
@@ -54,8 +46,6 @@ Impact : optimisation des campagnes marketing
 ---
 
 ### Analyse SQL
-
-GitHub : https://github.com/ton-username/sql-analysis
 
 Problème : extraire des insights d’une base de données
 Solution : requêtes SQL analytiques
@@ -85,7 +75,7 @@ Impact : identification de tendances clés
 
 ## Installation
 
-```bash
+```bash id="6a45g9"
 git clone https://github.com/ton-username/portfolio-data-analyst.git
 cd portfolio-data-analyst
 ```
