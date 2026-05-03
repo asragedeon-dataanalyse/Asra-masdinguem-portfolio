@@ -1,142 +1,121 @@
-# 🚀 Portfolio Data Analyst – ASRA MASDINGUEM Gédéon
-
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+# Portfolio Data Analyst – ASRA MASDINGUEM Gédéon
 
 ---
 
-## 🌐 Aperçu du projet
+## Aperçu du projet
 
-🔗 **Portfolio en ligne** : https://ton-portfolio.com
-📄 **Voir mon CV** : https://ton-cv.com
+Portfolio professionnel conçu pour présenter mes compétences en analyse de données et démontrer ma capacité à produire des insights utiles pour la prise de décision.
 
-Ce portfolio a été conçu pour présenter mes compétences en data analyse et démontrer ma capacité à créer des solutions modernes, orientées business.
-
----
-
-## 👨‍💻 À propos
-
-Je suis **Data Analyst Junior**, passionné par l’exploitation des données pour générer des insights à forte valeur.
-
-🎯 Mon objectif : **transformer les données en décisions stratégiques**
-
-Je suis actuellement disponible pour :
-
-* Missions freelance
-* Projets data
-* Collaborations professionnelles
+Lien du portfolio : https://ton-portfolio.com
+CV : https://ton-cv.com
 
 ---
 
-## 🧠 Compétences
+## À propos
 
-* 📊 Excel (Analyse, nettoyage, reporting)
-* 🗄️ SQL (requêtes avancées, data exploration)
-* 🐍 Python (Pandas, visualisation, analyse)
-* 📈 Power BI (dashboards interactifs)
+Je suis Data Analyst Junior, spécialisé dans l’analyse et l’interprétation des données.
 
----
+Mon objectif est de transformer des données brutes en informations exploitables afin d’aider les entreprises à prendre des décisions stratégiques.
 
-## 💼 Projets
-
-### 📊 Analyse des ventes (Power BI)
-
-🔗 GitHub : https://github.com/ton-username/sales-analysis
-🔗 Dashboard : https://app.powerbi.com/view?r=ton-lien
-
-* **Problème :** Comprendre les performances commerciales
-* **Solution :** Dashboard interactif Power BI
-* **Impact :** Amélioration de la prise de décision commerciale
+Je suis disponible pour des missions freelance, des projets data et des collaborations professionnelles.
 
 ---
 
-### 👥 Segmentation client (Python)
+## Compétences
 
-🔗 GitHub : https://github.com/ton-username/customer-segmentation
-
-* **Problème :** Identifier les groupes de clients
-* **Solution :** Clustering avec K-Means
-* **Impact :** Optimisation des campagnes marketing
-
----
-
-### 🗃️ Analyse SQL
-
-🔗 GitHub : https://github.com/ton-username/sql-analysis
-
-* **Problème :** Extraire des insights d'une base de données
-* **Solution :** Requêtes SQL analytiques
-* **Impact :** Identification de tendances business clés
+* Excel (analyse, nettoyage, reporting)
+* SQL (requêtes, exploration de données)
+* Python (Pandas, analyse, visualisation)
+* Power BI (création de dashboards interactifs)
 
 ---
 
-## 🛠️ Technologies utilisées
+## Projets
+
+### Analyse des ventes (Power BI)
+
+GitHub : https://github.com/ton-username/sales-analysis
+Dashboard : https://app.powerbi.com/view?r=ton-lien
+
+Problème : comprendre les performances commerciales
+Solution : création d’un dashboard interactif
+Impact : amélioration de la prise de décision commerciale
+
+---
+
+### Segmentation client (Python)
+
+GitHub : https://github.com/ton-username/customer-segmentation
+
+Problème : identifier les segments de clients
+Solution : clustering avec K-Means
+Impact : optimisation des campagnes marketing
+
+---
+
+### Analyse SQL
+
+GitHub : https://github.com/ton-username/sql-analysis
+
+Problème : extraire des insights d’une base de données
+Solution : requêtes SQL analytiques
+Impact : identification de tendances clés
+
+---
+
+## Technologies utilisées
 
 * HTML5
 * CSS3
 * JavaScript
-* Responsive Design
+* Design responsive
 * Animations modernes
 
 ---
 
-## ⚙️ Fonctionnalités
+## Fonctionnalités
 
-* ✨ Design moderne (Dark Mode)
-* 📱 Responsive (mobile, tablette, desktop)
-* ⚡ Animations fluides
-* ⌨️ Effet typing dynamique
-* 🧭 Navigation fluide
-* 🎯 Optimisé pour conversion
+* Interface moderne et professionnelle
+* Responsive design (mobile, tablette, desktop)
+* Navigation fluide
+* Animations légères
+* Optimisation de l’expérience utilisateur
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/ton-username/portfolio-data-analyst.git
 cd portfolio-data-analyst
 ```
 
-Puis ouvrir `index.html` dans votre navigateur.
+Ouvrir le fichier index.html dans un navigateur.
 
 ---
 
-## 📬 Contact
+## Contact
 
-📧 Email : [ton-email@example.com](mailto:ton-email@example.com)
-💼 LinkedIn : https://linkedin.com/in/ton-profil
+Email : [ton-email@example.com](mailto:ton-email@example.com)
+LinkedIn : https://linkedin.com/in/ton-profil
 
-👉 **Disponible immédiatement pour opportunités**
+Disponible pour missions freelance et collaborations.
 
 ---
 
-## 🔮 Améliorations futures
+## Améliorations futures
 
-* Déploiement sur Netlify / Vercel
+* Déploiement sur Netlify ou Vercel
 * Version React
-* SEO avancé
-* Intégration Google Analytics
-* Ajout de nouveaux projets data
+* Optimisation SEO
+* Ajout de nouveaux projets
+* Intégration d’outils d’analyse
 
 ---
 
-## ⭐ Pourquoi ce projet ?
+## Conclusion
 
-Ce portfolio démontre :
-
-* Ma capacité à créer une interface moderne
-* Ma compréhension UX/UI
-* Ma capacité à valoriser des projets data
-* Mon orientation résultats et business
-
----
-
-## 🏁 Conclusion
-
-Ce portfolio est conçu pour transformer les visiteurs en opportunités professionnelles.
+Ce portfolio a été conçu pour mettre en valeur mes compétences techniques et ma capacité à générer de la valeur à partir des données.
 
 ---
 
